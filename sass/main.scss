@@ -1,0 +1,11 @@
+@import "variables";
+@import "header";
+
+section {
+    height: 200px;
+    background: $colorDos;
+}
+footer {
+    height: 200px;
+    background: $colorTres;
+}
